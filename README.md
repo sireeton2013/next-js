@@ -31,3 +31,6 @@ or
 #### Build production
 
 `yarn run build`
+
+
+## Happy hacktoberfest2018
